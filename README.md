@@ -1,6 +1,6 @@
 # Привет! Меня зовут Пульнева Ксения
 
-**Стек:** HTML, CSS, Sass, БЭМ, JS, JS React(базовые знания), React Redux, Redux Tool, Английский(B2)
+**Стек:** HTML, CSS, Sass, БЭМ, JS, React, React Redux, Redux Tool, Английский(B2)
  
 ***
 
